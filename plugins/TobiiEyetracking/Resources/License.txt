@@ -1,0 +1,122 @@
+TOBII TECH GETTING STARTED SOFTWARE DEVELOPMENT LICENSE AGREEMENT
+
+The Software Development Kit (“SDK”) and other software and related files that you have downloaded, or otherwise obtained, includes Tobii software which is governed by this license agreement (the “Licensed Software”). This agreement grants you limited rights to use the Licensed Software to develop your own software. No support or maintenance for the Licensed Software is provided to you under this agreement.
+- You may only develop software for your personal and non-commercial use under this agreement. If you wish to develop or distribute software to the public or any third-party for commercial use, you must obtain a Commercial License. In order to obtain such license, please contact Tobii at https://www.tobii.com/tech/contact/sales-form/
+- Under this limited license, you may not develop software that stores eye tracking data or transfers eye tracking data to another device or network. If you are developing software where eye tracking data is stored, or where it is transferred to another device or network, you must obtain another license. Please see https://transparency.tobii.com/ for more information and contact Tobii at https://www.tobii.com/tech/contact/sales-form/.
+- Under this limited license, you may not develop software for medical solutions or medical equipment. If you wish to develop such software, you need to obtain a Medical Use License. In order to obtain such license, please contact Tobii at https://www.tobii.com/tech/contact/sales-form/
+
+Please note that the Licensed Software is only for use with Tobii related hardware and software, and you may not use it to develop or evaluate competing eye tracking technologies.
+
+If you are interested in additional eye tracking capabilities or functionality, or if you would like to receive support and maintenance from Tobii, please contact Tobii at https://www.tobii.com/tech/contact/sales-form/
+
+
+
+Tobii Tech AB (reg. No. 559104-1081), having its registered office at Karlsrovägen 2D, SE-182 53, Danderyd, Sweden ("Tobii"), grants you (“You”) a license to use the Licensed Software according to the following terms and conditions (the “Agreement”). Both Tobii and You are a “Party” to this Agreement and referred to together as “Parties”. You enter into this Agreement by installing or using the Licensed Software.
+
+WHEREAS, Tobii is a supplier of hardware and software solutions, either standalone or as part of third-party products, for eye tracking which contain intellectual property rights owned by Tobii (“Tobii Eye Tracking”), and You desire to license from Tobii to use certain Licensed Software as defined by this Agreement. Any other use of the Licensed Software requires a separate agreement between the Parties.
+
+BEFORE USING THE LICENSED SOFTWARE PLEASE READ THIS AGREEMENT CAREFULLY. BY DOWNLOADING, INSTALLING, USING, ACCESSING OR DISTRIBUTING THE LICENSED SOFTWARE YOU AGREE THAT:
+i) YOU HAVE READ AND UNDERSTOOD THE TERMS AND CONDITIONS IN THIS AGREEMENT;
+ii) YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT; AND
+iii) UNLESS SPECIFICALLY EXCLUDED BY AN EXISTING AGREEMENT BETWEEN YOU AND TOBII, THIS IS THE COMPLETE AND EXCLUSIVE STATEMENT OF THE RIGHTS AND LIABILITY BETWEEN YOU AND TOBII IN RELATION TO YOUR USE AND DISTRIBUTION OF THE LICENSED SOFTWARE, AND THIS AGREEMENT SUPERSEDES ALL PRIOR COMMUNICATIONS AND AGREEMENTS BETWEEN YOU AND TOBII REGARDING THE LICENSED SOFTWARE.
+
+You may only enter into this agreement and use the Licensed Software if you are legally permitted to enter into a binding contract with Tobii.
+
+The terms of this Agreement will apply to any updates that Tobii makes available to you. You agree that updates may require you to change or update your application and may affect your ability to use, access or interact with Licensed Software.
+
+Tobii may amend this Agreement at any time, without notice to You, by posting the revised terms on its website www.tobii.com.
+
+
+DEFINITIONS
+
+The terms below are defined as follows under this Agreement:
+
+“Eye Tracking Data” means data about a user’s eye gaze, eye images, pupil size, facial expression, presence, behaviour, head pose or position from Tobii Eye Tracking, in raw or processed form, on its own or in combination with other information.
+
+“Intellectual Property Rights” means patents, rights to apply for patents, trademarks, trade names, service marks, domain names, copyrights and all applications and registrations of such worldwide, schematics, industrial models, inventions, know-how, trade secrets, computer software programs and other intangible proprietary information.
+
+“Licensed Software” means the Software provided to You by Tobii, including all included files, directories, documentation, and associated API function calls.
+
+“Your Software” means software developed by You, including all object code, source code, and any documentation thereof.
+
+
+1. PERMITTED USE
+
+1.1 Tobii provides You limited rights to use the Licensed Software subject to the terms and restrictions contained in this Agreement.
+
+1.2 Your use of the Licensed Software is strictly permitted solely to develop Software for your own personal and non-commercial use (“Your Use”).
+
+
+2. LICENSE
+
+2.1 Subject to Sections 2.2, 3 and 7, Tobii grants You a limited, non-exclusive, non-transferable, non-sublicensable, royalty-free, revocable, license:
+a) to use the Licensed Software solely to develop Your Software for Your Use; and
+b) to any Intellectual Property Rights owned by Tobii covering binary files, or example source code, in the Licensed Software, necessary for Your Use.
+
+2.2 The license rights in this Section 2 are conditional upon compliance with all terms in this Agreement and, specifically, the following:
+a) You may not commercialise, sell, lease or profit from Your Software, including by providing ancillary services in relation to it.
+b) You may not use the Licensed Software on other eye tracking platforms than those produced by Tobii, or platforms that include Tobii hardware.
+c) Your Software may not store or transfer the Eye Tracking Data on or to any other application, computing device or network.
+d) Your Software must not allow other software to access Eye Tracking Data that originates from the Licensed Software.
+
+
+3. USE RESTRICTIONS
+
+3.1 Except as expressly permitted by this Agreement, You will not, nor permit or authorise anyone to:
+a) distribute, convey, lend, lease, share, sell, transfer, sublicense, rent, or time share the Licensed Software, or any of its components or license files, or permit third parties to download or install the Licensed Software.
+b) copy, decompile, disassemble or reverse engineer or otherwise attempt to extract or derive the source code or any methods, algorithms or procedures from the Licensed Software, or modify, adapt, translate or create derivative works based upon the Tobii Products except as otherwise expressly permitted by applicable law.
+c) use the Licensed Software if You are a competitor, or use the Licensed Software in any manner that competes with Tobii, including but not limited to, benchmarking, collecting and publishing data or analysis relating to the performance of the Licensed Software, or developing or marketing a product that is competitive with any Tobii product or service.
+d) remove any copyright, trademark or other proprietary notice from the Licensed Software.
+e) alter or circumvent any product, key or license restrictions or limitations on Licensed Software to exceed purchased quantities or to defeat any restrictions on access or use.
+
+
+4. OWNERSHIP OF LICENSED SOFTWARE
+
+Except for the licenses explicitly granted to You, Tobii retains all right, title, and interest in and to the Licensed Software, including all updates and modifications and derivative works created, whether or not specifically recognised, registered, or perfected under the laws of the country in which the Licensed Software is located. You do not own any rights, including the copyright or any other Intellectual Property Rights, in the Licensed Software. Your rights to use the Licensed Software are strictly as specified in this Agreement.
+
+
+5. USAGE DATA TO ENHANCE USER EXPERIENCE
+
+The Licensed Software may report anonymous usage statistics and/or error and bug reports to Tobii's servers in order to identify problems that may affect the technical stability and/or overall quality of the application, as well as inform Tobii which of the program components have been in use. For the avoidance of doubt, this data does not include Eye Tracking Data.
+
+
+6. SUPPORT & MAINTENANCE
+
+Tobii will not provide You with any support for, or maintenance of, the Licensed Software, including no obligation to provide updates to the Licensed Software.
+
+
+7. MEDICAL OR HIGH-RISK USE
+
+7.1 Medical Use: You may not develop Your Software for Medical Use under this Agreement. “Medical Use” is any use in medically classified devices or environments, for instance hospitals, surgeries, or other healthcare environments. Examples of Medical Use include systems for Assistive and Alternative Communication (AAC), medical condition assessment solutions, vision or eye condition solutions and solutions or systems intended to be used in hospitals, surgeries and doctor’s consulting rooms. If you wish to use the Licensed Software for Medical Use, then you must contact Tobii Tech at https://www.tobii.com/tech/contact/sales-form/.
+
+7.2 High-Risk Use: You have no right to develop Your Software for High-Risk Use. “High Risk Use” is use in any environment where failure or fault of any kind could lead to death or serious bodily injury of any person, or to severe physical or environmental damage. High Risk Use includes, but is not limited to, aircraft navigation, control of other modes of human mass transportation, military applications and control of nuclear or chemical facilities.
+
+
+8. LIMITATION OF LIABILITY AND INDEMNIFICATION
+
+8.1 In no event will Tobii be liable for the following, whether arising out of the use of, or inability to use, the Licensed Software, or for any other reason, even if it has been advised of the possibility of such damages: (a) indirect, incidental, special or consequential damages; (b) loss or corruption of data or interrupted or loss of business; or (c) loss of revenue, profits, goodwill or anticipated sales or savings. Tobii and its affiliates, officers, directors, employees, agents and suppliers’ maximum liability arising out of, or in connection with, the Licensed Software regardless of the cause of action, whether in tort (including negligence), breach, warranty, contract or otherwise will not exceed USD $100. Some jurisdictions do not allow the limitation or exclusion of liability. Accordingly, some of these limitations may not apply to You. To the extent that Tobii may not, as a matter of applicable law, disclaim any implied warranty or limit its liabilities, the scope of duration of such warranty and the extent of Tobii’s liability shall be the minimum permitted under such applicable law.
+
+8.2 You agree to indemnify, defend and hold harmless Tobii and its licensors, affiliates, contractors, officers, directors, employees or agents from any and all third-party claims, liabilities, damages, costs and
+expenses, including reasonable attorney fees, arising from your violation of any provision of Sections 2 and 3 of this Agreement.
+
+
+9. TERM AND TERMINATION
+
+9.1 This Agreement remains in force until termination (the “Term”).
+
+9.2 Tobii may terminate this Agreement at any time for convenience.
+
+9.3 Upon termination, all obligations relating to the ownership of the Licensed Technology and any indemnification or liability obligations survive.
+
+
+10. GENERAL
+
+10.1 Amendment: Tobii may amend this Agreement at any time, without notice to You, by posting the revised terms on its website www.tobii.com. 
+
+10.2 Assignment: You may not assign this Agreement or any of its rights, interests, or obligations hereunder.
+
+10.3 NO WARRANTY: EXCEPT AS SPECIFICALLY PROVIDED HEREIN, TOBII MAKES NO WARRANTY, EITHER EXPRESS OR IMPLIED, RELATING TO THE LICENSED SOFTWARE AND TOBII FURTHER EXPRESSLY DISCLAIMS, TO THE EXTENT PERMITTED BY APPLICABLE LAW, ALL WARRANTIES AND CONDITIONS OF ANY KIND RELATED THERETO, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, ACCURACY, OR FITNESS FOR A PARTICULAR PURPOSE.
+
+10.4 Governing Law: This Agreement will be governed by and construed according to the laws of Sweden (without regard to conflict of laws principles), all rights and remedies being governed by said laws. Any dispute or conflict under this agreement shall be finally settled by arbitration administered by the Arbitration Institute of the Stockholm Chamber of Commerce, in accordance with its rules. The seat of the arbitration will be Stockholm and the tribunal shall comprise of one (1) arbitrator. The language of the arbitration will be English.
+
+10.5 Disclaimer and Injunctive Relief: The Parties specifically disclaim the application of the UN Convention on Contracts for the International Sale of Goods. Regardless of the above governing law, Tobii may seek interim injunctive relief respect to any alleged breach of its Intellectual Property Rights, or any other proprietary rights.

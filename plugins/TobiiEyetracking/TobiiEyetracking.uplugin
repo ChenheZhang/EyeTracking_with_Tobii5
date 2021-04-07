@@ -1,0 +1,45 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Tobii Eyetracking Plugin",
+	"Description": "A plugin to enable Tobii Eyetracking using the StreamSDK in Unreal Engine 4",
+	"Category": "Input Devices",
+	"CreatedBy": "Tobii AB",
+	"CreatedByURL": "https://www.tobii.com/",
+	"DocsURL": "https://vr.tobii.com/sdk/develop/ue4/getting-started/",
+	"MarketplaceURL": "https://unrealengine.com/marketplace/en-US/slug/tobii-eye-tracking-sdk",
+	"SupportURL": "https://discord.gg/8XZnAyg",
+	"EngineVersion": "4.23.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "TobiiCore",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32"
+			]
+		},
+		{
+			"Name": "TobiiGTOM",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32"
+			]
+		},
+		{
+			"Name": "TobiiInteractions",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32"
+			]
+		}
+	]
+}

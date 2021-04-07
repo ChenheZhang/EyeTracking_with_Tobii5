@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.23",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "EyeTracking",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "TobiiEyetracking",
+			"Enabled": true,
+			"MarketplaceURL": "https://unrealengine.com/marketplace/en-US/slug/tobii-eye-tracking-sdk"
+		}
+	]
+}
